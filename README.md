@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mahalakshmi510
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m maha.
+- 👀 I’m interested in learning programming languages.
+- 🌱 I’m currently learning  C language.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mahalakshmi510/Mahalakshmi510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me-https://github.com/Mahalakshmi510.
